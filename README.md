@@ -1,5 +1,5 @@
 # GitHub Policy
-You will find Danone organization guidelines & best practices in this repository : https://github.com/danone/github.policy
+You will find Danone organization guidelines & best practices in this repository : ⚠️ https://github.com/danone/github.policy ⚠️
 
 Please read it through if you're new to Danone GitHub organization !
 
